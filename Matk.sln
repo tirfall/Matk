@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matk.Android", "Matk.Android\Matk.Android.csproj", "{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matk", "Matk\Matk.csproj", "{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FC4E64-2C1C-430E-92DC-A60CF2F0E3E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC4C4F7-B9DA-4978-85BC-AD30558F40C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137B3B94-BB6C-4617-8591-CA25572D6E2A}
+	EndGlobalSection
+EndGlobal
