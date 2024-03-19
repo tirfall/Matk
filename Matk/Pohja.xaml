@@ -2,7 +2,13 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Matk.Pohja"
-            
+             xmlns:local="clr-namespace:Matk;assembly=Matk"
              Title="Põhja">
+    <TabbedPage.Children>
+        <local:Kasmu/>
+        <local:Poruni/>
+        <local:VihterpaluOhtu/>
+        <local:JarviAegviidu/>
+    </TabbedPage.Children>
     
 </TabbedPage>

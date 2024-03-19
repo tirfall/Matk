@@ -2,7 +2,13 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Matk.Louna"
-            
+             xmlns:local="clr-namespace:Matk;assembly=Matk"
              Title="Lõuna">
-    
+
+    <TabbedPage.Children>
+        <local:RougeUrgoru/>
+        <local:Kutioru/>
+        <local:KiidjarveTaevaskojaKiidjarve/>
+        <local:KarulaPikk/>
+    </TabbedPage.Children>
 </TabbedPage>

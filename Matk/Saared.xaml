@@ -7,7 +7,9 @@
 
     <TabbedPage.Children>
         <local:HeltermaaRistnaSarve107km/>
-
+        <local:Harilaiu/>
+        <local:Vilsandi/>
+        <local:Kardla/>
     </TabbedPage.Children>
 
 </TabbedPage>

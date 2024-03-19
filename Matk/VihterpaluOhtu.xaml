@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Matk.HeltermaaRistnaSarve107km"
-             Title="Heltermaa-Ristna-Sarve">
+             x:Class="Matk.VihterpaluOhtu"
+             Title="Vihterpalu-Ohtu">
+    <!--https://www.loodusegakoos.ee/kuhuminna/puhkealad/tallinna-umbruse-puhkeala/rmk-perakula-aegviidu-ahijarve-matkatee-vihterpalu-->
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Welcome to Xamarin.Forms!"
