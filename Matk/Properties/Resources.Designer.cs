@@ -63,6 +63,36 @@ namespace Matk.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] harilaiu {
+            get {
+                object obj = ResourceManager.GetObject("harilaiu", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] kardla {
+            get {
+                object obj = ResourceManager.GetObject("kardla", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] ristna {
+            get {
+                object obj = ResourceManager.GetObject("ristna", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] vilsandi {
             get {
                 object obj = ResourceManager.GetObject("vilsandi", resourceCulture);

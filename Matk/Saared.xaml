@@ -5,11 +5,6 @@
              xmlns:local="clr-namespace:Matk;assembly=Matk"
              Title="Saared">
 
-    <TabbedPage.Children>
-        <local:HeltermaaRistnaSarve107km/>
-        <local:Harilaiu/>
-        <local:Vilsandi/>
-        <local:Kardla/>
-    </TabbedPage.Children>
+
 
 </TabbedPage>
