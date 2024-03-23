@@ -121,11 +121,35 @@
   <data name="harilaiu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\harilaiu.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="harju" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\harju.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="jarvi_aegviidu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jarvi_aegviidu.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="kardla" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kardla.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="karula" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\karula.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kasmu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kasmu.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kytioru" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kytioru.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="poruni" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\poruni.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="ristna" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ristna.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rouge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rouge.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="taevaskoja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\taevaskoja.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="vilsandi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\vilsandi.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

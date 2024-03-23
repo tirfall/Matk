@@ -13,6 +13,7 @@ namespace Matk
         public MainPage()
         {
             InitializeComponent();
+            BarBackgroundColor = Color.FromHex("#196b00");
         }
     }
 }

@@ -5,10 +5,5 @@
              xmlns:local="clr-namespace:Matk;assembly=Matk"
              Title="Lõuna">
 
-    <TabbedPage.Children>
-        <local:RougeUrgoru/>
-        <local:Kutioru/>
-        <local:KiidjarveTaevaskojaKiidjarve/>
-        <local:KarulaPikk/>
-    </TabbedPage.Children>
+    
 </TabbedPage>

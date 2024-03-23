@@ -4,11 +4,6 @@
              x:Class="Matk.Pohja"
              xmlns:local="clr-namespace:Matk;assembly=Matk"
              Title="Põhja">
-    <TabbedPage.Children>
-        <local:Kasmu/>
-        <local:Poruni/>
-        <local:VihterpaluOhtu/>
-        <local:JarviAegviidu/>
-    </TabbedPage.Children>
+    
     
 </TabbedPage>
